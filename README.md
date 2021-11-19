@@ -1,7 +1,9 @@
 ### Hi there eu sou Yuri Fernando 👋
 
 - 🔭 Estou a procura de uma opurtunidade de trabalhar com frot-end.
-- 🌱 Estou estudado JavaScript.
+- 🌱 Estou estudado HTML e CSS.
+- Apaixondo por Tecnologia.
+- 
 
 <div>
   <a href="https://github.com/YuriFernand">
