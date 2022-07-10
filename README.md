@@ -1,7 +1,7 @@
 ### Hi there eu sou Yuri Fernando 👋
 
 - 🔭 Apaixondo por Tecnologia.
-- 🌱 Estou estudado HTML e CSS.
+- 🌱 Estou estudado Desenvolvimento Web
 
 
 <div>
