@@ -1,8 +1,8 @@
 ### Hi there eu sou Yuri Fernando 👋
 
-- 🔭 Etusiamos pela tecnologia .
-- 🌱 Apredendo Desnvolvimento WEB
--  
+- 🔭 Entusiasmo pela tecnologia .
+- 🌱 Aprendendo Desenvolvimento WEB
+-  Sempre a prucura de novos desafios e grandes apredizados 
 
 
 <div>
